@@ -1,0 +1,120 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesLatinas.us" tvg-name="Pluto TV Series Latinas" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Series Latinas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesRetro.us" tvg-name="Pluto TV Series Retro" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Series Retro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax " tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",Cinemax
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" tvg-url="" group-title="",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://ewsat.com/img/DMAX.png" tvg-url="" group-title="",Discovery Max
+http://91.126.141.12:1935/live/discoverymax/chunklist_w2133036664.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/in/FOXLife.in.png" tvg-url="" group-title="",Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" tvg-url="" group-title="",HALIMARK CHANNEL HD
+http://supersonictv.live:25461/903310/034806/22892
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" tvg-url="" group-title="",HALIMARK CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.heartlandweekend.com/wp-content/uploads/2019/03/1200x627-Hallmark-Drama-300x157.png" tvg-url="" group-title="",HALIMARK DRAMA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",HBO Family
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://www.logotypes101.com/logos/745/D1497F17E46C148F0BA16061B3581C9C/historyhd.png" tvg-url="" group-title="",HISTORY HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://vectorbn.net/wp-content/uploads/2019/11/Sky-Cinema-Disney.jpg" tvg-url="" group-title="",SKY CINAMA DISNEY HD
+http://supersonictv.live:25461/903310/034806/77464
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1193838932414386176/nF8oUkv9_400x400.jpg" tvg-url="" group-title="",SKY CINEMA COMIDY HD
+http://supersonictv.live:25461/903310/034806/77463
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg" tvg-url="" group-title="",SKY CINEMA FAMILY HD
+http://supersonictv.live:25461/903310/034806/77466
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_cinema_premiere.png" tvg-url="" group-title="",SKY CINEMA PREMIER FHD
+http://supersonictv.live:25461/903310/034806/77468
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png" tvg-url="" group-title="",SKY CINEMA SELECT HD
+http://supersonictv.live:25461/903310/034806/77470
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" tvg-url="" group-title="",Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" tvg-url="" group-title="",Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" tvg-url="" group-title="",SONY
+https://sony-comedias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" tvg-url="" group-title="",SONY
+https://sony-novelas-1.roku.wurl.com/playlist_960x540_2000k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://la.axn.com/sites/la.axn/files/default/responsive_sony_axn/default_channel.jpg" tvg-url="" group-title="",SONY AXN HD
+http://supertexasiptv.ddns.net:8000/bktv.xyz/qLqJNcj9rd/214
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" tvg-url="" group-title="",SONY COMPLET
+https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" tvg-url="" group-title="",SONY NOVELAS
+https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/AE2RCF6.png" tvg-url="" group-title="",TNT SERIES
+http://mytv.club:8080/unknown/unknown123/27290
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/AE2RCF6.png" tvg-url="" group-title="",TNT SERIES HD
+http://mytv.club:8080/unknown/unknown123/27289
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/hallmark.png" ,Hallmark Channel
+//crownmediaingesttest.akamaized.net/hls/live/2012246/hm/master.m3u8?hdnts=exp=1617519679~acl=/*~hmac=e8be01ad0809662b58966f2dd1780a37550f0fabc1f8b967953888a15329a7c5
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/latinangels.png" ,Latin Angels
+https://manifests.tikilive.com/v1/manifest/5272bfbac8785e0a4829ff37374a9e36d6be752c/spsv_live_with_preroll_desktop/9daaab5b-7bd0-4538-8f6a-de14bca8962f/0.m3u8?mtd=c74a2a5256c845fa836890337b7f04de.mediatailor.us-east-1.amazonaws.com
+
+#EXTINF:-1 tvg-logo="" ,NombreCanal
+URL
+
+#EXTINF:-1 tvg-logo="" ,NombreCanal
+URL
+
+#EXTINF:-1 tvg-logo="" ,NombreCanal
+URL
+
+#EXTINF:-1 tvg-logo="" ,NombreCanal
+URL
+
+#EXTINF:-1 tvg-logo="" ,NombreCanal
+URL
+
+#EXTINF:-1 tvg-logo="" ,NombreCanal
+URL
+
+#EXTINF:-1 tvg-logo="" ,NombreCanal
+URL
+
+#EXTINF:-1 tvg-logo="" ,NombreCanal
+URL
+
+#EXTINF:-1 tvg-logo="" ,NombreCanal
+URL
+
+#EXTINF:-1 tvg-logo="" ,NombreCanal
+URL
+
+#EXTINF:-1 tvg-logo="" ,NombreCanal
+URL
+
+#EXTINF:-1 tvg-logo="" ,NombreCanal
+URL
